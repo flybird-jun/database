@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/googletest-uninitialized-test_.dir/test/googletest-uninitialized-test_.cc.o -o googletest-uninitialized-test_  lib/libgtest.a 

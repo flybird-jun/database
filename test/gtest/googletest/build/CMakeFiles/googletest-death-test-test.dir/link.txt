@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/googletest-death-test-test.dir/test/googletest-death-test-test.cc.o -o googletest-death-test-test  lib/libgtest_main.a lib/libgtest.a 

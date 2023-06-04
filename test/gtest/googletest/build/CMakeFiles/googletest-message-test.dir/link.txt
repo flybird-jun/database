@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/googletest-message-test.dir/test/googletest-message-test.cc.o -o googletest-message-test  lib/libgtest_main.a lib/libgtest.a 

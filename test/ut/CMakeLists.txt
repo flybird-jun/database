@@ -1,0 +1,5 @@
+add_library(common common/gtest_main.cc)
+target_link_libraries(common gtest)
+if (MODULE_NAME STREQUAL "STORAGE")
+    add_subdirectory(storage)
+endif()

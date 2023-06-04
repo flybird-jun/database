@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/googletest-listener-test.dir/test/googletest-listener-test.cc.o -o googletest-listener-test  lib/libgtest_main.a lib/libgtest.a 

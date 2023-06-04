@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/googletest-break-on-failure-unittest_.dir/test/googletest-break-on-failure-unittest_.cc.o -o googletest-break-on-failure-unittest_  lib/libgtest.a 

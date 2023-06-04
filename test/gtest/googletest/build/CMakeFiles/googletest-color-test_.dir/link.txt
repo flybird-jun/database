@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/googletest-color-test_.dir/test/googletest-color-test_.cc.o -o googletest-color-test_  lib/libgtest.a 
